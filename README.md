@@ -13,7 +13,7 @@ This is a ReactJs web application that mimicks the discord's text channel and ch
 
 #### How to use
 
-1 Download the code.
-2 Install the dependencies.
-3 Get a firestore config from Google firebase and update the friebaseApp with this config in firebase.js
-4 Run with npm start.
+1. Download the code.
+2. Install the dependencies.
+3. Get a firestore config from Google firebase and update the friebaseApp with this config in firebase.js
+4. Run with npm start.
