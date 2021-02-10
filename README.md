@@ -9,6 +9,7 @@ This is a ReactJs web application that mimicks the discord's text channel and ch
 ###### Google firebase is used for hosting the application.
 
 #### Screenshots
+![Screenshot from 2021-02-10 23-55-50](https://user-images.githubusercontent.com/22026768/107554221-a8ed0100-6bfb-11eb-8f35-c6e3eb90eca8.png)
 
 
 #### How to use
